@@ -8,4 +8,28 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Scene 1/prison.unity
+    guid: cd0aace40c4b08746b987c145c62c577
+  - enabled: 1
+    path: Assets/Scenes/Scene 1/after prison.unity
+    guid: 4df97e1f48060f543b9aed2871d9ecbd
+  - enabled: 1
+    path: Assets/Scenes/Scene 1/treasure.unity
+    guid: 9eceb6a3e2cbab84d98bca40d0dec6b7
+  - enabled: 1
+    path: Assets/Scenes/Scene 1/after treasure.unity
+    guid: 889d52f9af30d6044b310d39e6b34d42
+  - enabled: 1
+    path: Assets/Scenes/Scene 1/Boss 1.unity
+    guid: bc68caee85ec4cd48b0c41b96395ff5f
+  - enabled: 1
+    path: Assets/Scenes/Scene 2/Scene 2.unity
+    guid: 9a9df868586fe3342bcaaa9519d5cea9
+  - enabled: 1
+    path: Assets/Scenes/Scene 2/Scene 2 part 2.unity
+    guid: 14ac80847c4e89e499fc00e584bcc98e
+  - enabled: 1
+    path: Assets/Scenes/Scene 2/Scene 2 Part 3.unity
+    guid: b602c92574fd7114fa8630d8f27c045a
   m_configObjects: {}
