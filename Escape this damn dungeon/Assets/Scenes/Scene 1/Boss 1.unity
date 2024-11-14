@@ -561,10 +561,10 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6,
     type: 3}
-  m_Color: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 1}
+  m_Color: {r: 0.745283, g: 0.745283, b: 0.745283, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -866,7 +866,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6,
     type: 3}
   m_Color: {r: 0.5849056, g: 0.5849056, b: 0.5849056, a: 1}
@@ -1308,7 +1308,7 @@ Transform:
   m_GameObject: {fileID: 781009507}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.119, y: 3.0842, z: 0}
+  m_LocalPosition: {x: 0.571, y: 3.133, z: 0}
   m_LocalScale: {x: 1, y: 1.7782238, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1392,8 +1392,8 @@ Transform:
   m_GameObject: {fileID: 790026179}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 22.489809, y: -3.6562, z: 0}
-  m_LocalScale: {x: 0.9767, y: 1.1196, z: 1}
+  m_LocalPosition: {x: 22.4532, y: -3.6562, z: 0}
+  m_LocalScale: {x: 0.96443594, y: 1.1196, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2076404164}
@@ -1673,7 +1673,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -735772046, guid: 7130af6abf86db14c81232423e15e76d, type: 3}
   m_Color: {r: 0.509434, g: 0.25677106, b: 0.06488074, a: 1}
   m_FlipX: 0
@@ -1953,7 +1953,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6,
     type: 3}
   m_Color: {r: 0, g: 0, b: 0, a: 1}
@@ -2299,7 +2299,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6,
     type: 3}
   m_Color: {r: 0.4433962, g: 0.4433962, b: 0.4433962, a: 1}
@@ -2514,7 +2514,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6,
     type: 3}
   m_Color: {r: 0.4245283, g: 0.4245283, b: 0.4245283, a: 1}
@@ -3883,7 +3883,7 @@ PrefabInstance:
     - target: {fileID: 5843668731025413174, guid: f158aa2be3df6489185ef721f6fd79c1,
         type: 3}
       propertyPath: MinDistance
-      value: 1.4451113
+      value: 2.717298
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4280,7 +4280,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6,
     type: 3}
   m_Color: {r: 0.4811321, g: 0.4811321, b: 0.4811321, a: 1}
@@ -4302,7 +4302,7 @@ Transform:
   m_GameObject: {fileID: 2063601594}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.13, y: 2.12, z: 0}
+  m_LocalPosition: {x: 0.551, y: 2.159, z: 0}
   m_LocalScale: {x: 1.6690952, y: 0.18694678, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -4387,8 +4387,8 @@ Transform:
   m_GameObject: {fileID: 2072333716}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 1.4794, y: 0.4347, z: 0}
-  m_LocalScale: {x: 36.31718, y: 14.803614, z: 1}
+  m_LocalPosition: {x: 0.2197, y: 0.8989, z: 0}
+  m_LocalScale: {x: 33.800186, y: 13.875105, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
